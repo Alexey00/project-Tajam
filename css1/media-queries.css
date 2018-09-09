@@ -1,0 +1,26 @@
+@media only screen and (max-width: 768px) {
+    .logo {
+
+    }
+
+    .banner {
+        max-width: 100%;
+    }
+
+    .banner a {
+        max-width: 100%;
+        display: inline-block;
+    }
+
+    form {
+        float: left;
+    }
+
+    .shopping-card {
+        float: left;
+    }
+
+    .sales {
+        float: left;
+    }
+}
